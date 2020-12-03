@@ -1,1 +1,1 @@
-#Repositório dos arquivos do Cisco Packet Tracer 
+#Repositório dos arquivos de configuração do Cisco Packet Tracer 
